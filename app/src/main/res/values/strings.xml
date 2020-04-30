@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MADProject</string>
+    <string name="btn_book">BOOK  YOUR  BUS</string>
+    <string name="et1">From</string>
+    <string name="et2">To</string>
+    <string name="et3">Date</string>
+    <string name="et4">Time</string>
+    <string name="et5">No of seats</string>
+    <string name="button2">BOOK</string>
+    <string name="button3">SHOW</string>
+    <string name="button4">Update</string>
+    <string name="button5">Delete</string>
+    <string name="t1">BUS.LK</string>
+
+</resources>
